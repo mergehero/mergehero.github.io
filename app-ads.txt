@@ -33,6 +33,29 @@ axonix.com, 57869, RESELLER
 conversantmedia.com, 100308, RESELLER, 03113cd04947736d
 adform.com, 2671, RESELLER
 freewheel.tv, 1235183, RESELLER
+eskimi.com, 2020000016, RESELLER
+
+smartadserver.com, 4573, RESELLER, 060d053dcf45cbf3
+
+smartadserver.com, 4573, RESELLER, 060d053dcf45cbf3
+
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+
+xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
+
+video.unrulymedia.com, 2564526802, RESELLER
+
+pubnative.net, 1006576, RESELLER, d641df8625486a7b
+
+axonix.com, 57264, RESELLER
+
+sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
+
+contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
+
+consumable.com, 2001470, RESELLER, aefcd3d2f45b5070
 freewheel.tv, 1235279, RESELLER
 openx.com, 540866936, RESELLER, 6a698e2ec38604c6
 yieldmo.com, 2807970144171533194, RESELLER
