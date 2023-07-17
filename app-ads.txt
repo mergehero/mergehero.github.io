@@ -1268,3 +1268,4 @@ imds.tv, 82578, RESELLER, ae6c32151e71f19d
 inmobi.com, 625b6b37c3a340938a8ff02bc83b5a04, RESELLER, 83e75a7ae333ca9d
 
 sharethrough.com, 3blZyYks, RESELLER, d53b998a7bd4ecd2
+facebook.com, 109606325141473, DIRECT, c3e20eee3f780d68
