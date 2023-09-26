@@ -1724,3 +1724,5 @@ rubiconproject.com, 18364, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 triplelift.com, 13883, RESELLER, 6c33edb13117fd86
 video.unrulymedia.com, 2464975885, RESELLER
+yeahmobi.com, 163dcbefabed61, DIRECT
+zmaticoo.com, 163dcbefabed61, DIRECT
