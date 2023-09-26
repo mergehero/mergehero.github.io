@@ -1726,3 +1726,6 @@ triplelift.com, 13883, RESELLER, 6c33edb13117fd86
 video.unrulymedia.com, 2464975885, RESELLER
 yeahmobi.com, 163dcbefabed61, DIRECT
 zmaticoo.com, 163dcbefabed61, DIRECT
+pubnative.net, 1007501, RESELLER, d641df8625486a7b
+pubnative.net, 1008770, RESELLER, d641df8625486a7b
+themediagrid.com, FH3TKJ, RESELLER, 35d5010d7789b49d
