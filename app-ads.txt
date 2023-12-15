@@ -1907,3 +1907,5 @@ Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 lijit.com, 224984, RESELLER, fafdf38b16bf6b2b
 yandex.com, 37982190, RESELLER
+adsyield.com, 1233, RESELLER
+onetag.com, 7d9af0b85b5070e, RESELLER
